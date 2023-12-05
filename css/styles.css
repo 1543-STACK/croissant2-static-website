@@ -1,5 +1,6 @@
 body {
   background-color: pink;
+  max-width: 900px;
 }
 h1,
 h2,
@@ -8,7 +9,7 @@ h4 {
   text-align: center;
 }
 a {
-  display: flex;
+  display: inline-block;
   margin-right: 20px;
   margin-left: 10px;
 }
